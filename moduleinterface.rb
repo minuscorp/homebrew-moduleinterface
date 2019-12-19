@@ -1,8 +1,8 @@
 class Moduleinterface < Formula
     desc "Swift tool to generate Module Interfaces for Swift projects"
     homepage "https://github.com/minuscorp/ModuleInterface"
-    url "https://github.com/minuscorp/ModuleInterface/archive/v0.0.3.tar.gz"
-    sha256 "1b2ec9bd4fa9443febfc5bb73a9b3cc7f2f149e980fc84378aa8fe640e571510"
+    url "https://github.com/minuscorp/ModuleInterface/archive/v0.0.4.tar.gz"
+    sha256 "084eee0f1c1ef5f6b01432eebd1595bd8c45ba3810461deca57eda920914bc90"
   
     depends_on :xcode => ["11.2", :build, :test]
   
